@@ -1,27 +1,37 @@
 # Medstore-mern
 ## Medical E-commerce Web Application
 
-## About the App
+---
+
+## Features
+- **Dual Authentication**: Separate login and signup pages for customers and sellers.
+- **GeoLocation Integration**: Find nearby stores using Map GeoLocation.
+- **Product Filtering**: Filter products by location.
+- **Price Comparison**: Order the cheapest product by comparing prices from nearby stores.
+- **Seller Analytics**: Sellers can analyze monthly reports, including total income, product sales, and order status.
+
+---
+
+## Tech Stack
 - **Frontend**: ReactJS
 - **Backend**: Express, NodeJS
 - **Database**: MongoDB
 
-## Features
-- Two separate authentication pages for customers and sellers.
-- Find nearby stores using Map GeoLocation.
-- Filter products by location.
-- Order the cheapest product by comparing prices from nearby stores.
-- Sellers can analyze monthly reports (such as total monthly income, product sales, order status, etc.) on the seller dashboard.
+---
 
 ## Screenshots 📸
 
-### 1. Project Architecture
+### Project Architecture
 ![Project Architecture](https://user-images.githubusercontent.com/65064180/140944286-3732c2eb-5c16-48c0-8bec-7c977affe5fc.jpg)
 
-### 2. Home Page
+---
+
+### Home Page
 ![Home](https://user-images.githubusercontent.com/65064180/140943752-ddfbbc79-5074-405f-ada8-801033c7337c.png)
 
-### 2.1 Customer Features
+---
+
+### Customer Features
 
 #### Sign Up
 ![Signup](https://user-images.githubusercontent.com/65064180/140943742-e5d8db75-5cf7-43fc-9d60-465e53bdded2.png)
@@ -38,10 +48,12 @@
 #### Customer Cart
 ![Customer Cart](https://user-images.githubusercontent.com/65064180/140943755-ba5f2ce6-e70a-490f-9eca-cb78b9ebbabc.png)
 
-#### Customer Order History
+#### Order History
 ![Customer Order](https://user-images.githubusercontent.com/65064180/140943738-0229ece9-380b-4ed8-a664-faa1ff3197df.png)
 
-### 2.2 Seller Features
+---
+
+### Seller Features
 
 #### Sign Up
 ![Signup Seller](https://user-images.githubusercontent.com/65064180/140943767-3ba08242-edee-4ae5-b65d-b32e6db586b7.png)
@@ -55,7 +67,7 @@
 #### Seller Details
 ![Seller Details](https://user-images.githubusercontent.com/65064180/140943771-e9f60c48-9cb3-4792-87a4-0691a04c439f.png)
 
-#### Analytics
+#### Analytics Dashboard
 ![Analytics](https://user-images.githubusercontent.com/65064180/140943713-6b407a3f-0d01-45fd-b2b0-228986c1c09c.png)
 
 #### Add Product
@@ -66,3 +78,9 @@
 
 #### Order Status
 ![Order Status](https://user-images.githubusercontent.com/65064180/140943756-4250154e-65d6-4151-885e-84c1ca410bfa.png)
+
+---
+
+## Repository
+Check out the code and contribute to the project:  
+[Medstore-mern Repository](https://github.com/abressiddique/med-merns-site-.git)
